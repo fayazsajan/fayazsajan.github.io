@@ -1,10 +1,15 @@
-- course: II PU
-  institute: Sri Chaitanya PU College
-  dates: 2016 - 2018
-  logo: logo-bb.jpg
-  
 - course: BE, Computer Science
   institute: Sri Venkateshwara College of Engineering, VTU
   dates: 2018 - 2022
   logo: download.png
+  
+- course: 12th
+  institute: Sri Chaitanya PU College
+  dates: 2016 - 2018
+  logo: logo-bb.jpg
+  
+- course: 10th
+  institution: St. Marys Public School
+  dates: 2006 - 2016
+  logo: smps.jpg
   
